@@ -24,8 +24,9 @@ Me tornar um **Desenvolvedor Back-end Java**, criando aplicações robustas e be
 ---
 
 ## 📫 Contato:
-[![GitHub](https://github.com/Marrafon91)  
-[![LinkedIn](https://www.linkedin.com/in/guilherme-marrafon-93833a347/)
+[![GitHub](https://img.shields.io/badge/GitHub-Marrafon91-181717?style=flat&logo=github)](https://github.com/Marrafon91)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Marrafon-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-marrafon-93833a347/)
+
 
 ---
 
