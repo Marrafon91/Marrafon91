@@ -30,6 +30,14 @@ Me tornar um **Desenvolvedor Back-end Java**, criando aplicações robustas e be
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+---
 ## 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Marrafon-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-marrafon-93833a347/)
 
